@@ -7,18 +7,19 @@
 
 
 ## Checklist of the requirements
-  ✅Each section of the homepage must be a separate react component.
-  ✅Develop using Typescript.
-  ✅Use tailwindcss(preferrable) or Material UI
-  ✅No hardcoding of text in react app. All the content (text and images) must be coming from a Headless CMS(Contentful) through its API.
-  ✅Enable theming with just 2 colors i.e primary and secondary and font family
-  ✅Use Storybook for 3 UI components - Button - Primary and secondary, Sub component of the Why Choose us section with icon, title and paragraph.
-  ✅Prettier and Linter configuration
-  ✅Host the page on Netlify, Vercel or another provider.
-  ✅Readme file on how to deploy and run the service.
+  ✅Each section of the homepage must be a separate react component.<br>
+  ✅Develop using Typescript.<br>
+  ✅Use tailwindcss(preferrable) or Material UI<br>
+  ✅No hardcoding of text in react app. All the content (text and images) must be coming from a Headless CMS(Contentful) through its
+   API.<br>
+  ✅Enable theming with just 2 colors i.e primary and secondary and font family<br>
+  ✅Use Storybook for 3 UI components - Button - Primary and secondary, Sub component of the Why Choose us section with icon, title and paragraph.<br>
+  ✅Prettier and Linter configuration<br>
+  ✅Host the page on Netlify, Vercel or another provider.<br>
+  ✅Readme file on how to deploy and run the service.<br>
 
 
-  ### 🏠 [Github Homepage](https://github.com/sachinmotwani02/techwondoe-assignment)
+### 🏠 [Github Homepage](https://github.com/sachinmotwani02/techwondoe-assignment)
 
 ### ✨ [Netlify (Project Link)](https://techwondoeweb-assignment.netlify.app/)
 
