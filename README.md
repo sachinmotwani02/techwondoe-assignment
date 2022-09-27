@@ -5,9 +5,9 @@
 
 > Typescipt project which uses contentful for content delivery and  management, and storybook for testing components.
 
-### 🏠 [Homepage](https://github.com/sachinmotwani02/techwondoe-assignment)
+### 🏠 [Github Homepage](https://github.com/sachinmotwani02/techwondoe-assignment)
 
-### ✨ [Demo](https://techwondoeweb-assignment.netlify.app/)
+### ✨ [Netlify(Project Link)](https://techwondoeweb-assignment.netlify.app/)
 
 ## Install
 
