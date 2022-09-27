@@ -1,0 +1,13 @@
+.hero-contain {
+  background-position: 30%;
+}
+
+.hero-vector {
+  height: 90%;
+}
+
+@media screen and (max-width: 480px) {
+  .hero-contain {
+    height: 80vh;
+  }
+}

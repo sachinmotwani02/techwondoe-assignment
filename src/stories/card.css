@@ -1,0 +1,35 @@
+.card-container {
+  font-family: 'Poppins', sans-serif;
+  width: 300px;
+  display: flex;
+  margin-bottom: 25px;
+  /* background-color: aqua; */
+}
+
+.contain1 {
+  width: 45px;
+  padding: 7px;
+  padding-top: 20px;
+}
+
+.contain2 {
+  /* width: 85%; */
+  /* padding-left: 10px; */
+  padding-top: 14px;
+  padding-left: 6px;
+}
+
+.head {
+  font-weight: 600;
+}
+
+.para {
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+@media screen and (max-width: 480px) {
+  .card-container {
+    /* width: 90%; */
+  }
+}
