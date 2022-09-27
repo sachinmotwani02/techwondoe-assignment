@@ -47,10 +47,3 @@ npm run test
 
 * Github: [@sachinmotwani02](https://github.com/sachinmotwani02)
 * LinkedIn: [@Sachin Motwani](https://linkedin.com/in/sachin-motwani-609863194)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
