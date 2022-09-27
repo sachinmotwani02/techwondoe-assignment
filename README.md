@@ -19,8 +19,6 @@
   ✅Readme file on how to deploy and run the service.<br>
 
 
-### 🏠 [Github Homepage](https://github.com/sachinmotwani02/techwondoe-assignment)
-
 ### ✨ [Netlify (Project Link)](https://techwondoeweb-assignment.netlify.app/)
 
 ## Install
